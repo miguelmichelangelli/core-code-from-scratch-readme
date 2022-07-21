@@ -17,7 +17,7 @@
 ### **Asignation 2:** Is Java compiled or interpreted, or both? 
 <br> 
 
-### **Asignation 3:**Pseudo currency converter excersice
+### **Asignation 3:** Pseudo currency converter excersice
 <br>
 
 ### **Asignation 4:** Learn about high and low level languages
