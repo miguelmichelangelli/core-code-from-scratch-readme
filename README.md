@@ -23,7 +23,7 @@
 <br>
         <p><b>Assignation 3: Pseudo currency converter excersice</b></p>
         <p>
-        Task List:<br>
+        Task List:
                 <ul>
                         <li>Starting point: START</li>
                         <li>Input: GET, GET FROM("URL")</li>
@@ -32,7 +32,7 @@
                         <li>Assignation: <-- </li>
                         <li>End point: END</li>
                 </ul>
-        Algorithm:<br>
+        Algorithm:
                 <ol>
                         <li>START</li>
                         <li>Amount <-- GET</li>
