@@ -43,12 +43,52 @@
                 </ol>
         </p>
 <br>
+        <p><b>Assignation 4:</b> Learn about high and low level languages</p>
+                <p>The High Level Languages are user-orientated, have been made for programmers to convert an algorithm into program code easily. These require the use of a compiler or interpreter for the translation of the algorithm into machin code, some examples are JavaScript, Python, HTML, C++...
 
+<br>
+                The Low Level Languages instead are machine-orientated, can be executed in the computer hardware without any compiler or interpreter. Some examples are asembly language or machin code.</p>
+<br>
 
-<p><b>Assignation 4:</b> Learn about high and low level languages</p>
-
-<h2 id="week-2">Week 2</h3>
-<h2 id="week-3">Week 3</h3>
-<h2 id="week-4">Week 4</h3>
-<h2 id="week-5">Week 5</h3>
-<h2 id="week-6">Week 6</h3>
+   <h3>Wednesday</h3>
+        <p><b>Assignation 1:</b> Your date of birth in the Matrix?</p>
+                <p>Date of birth: 2003</p>
+                <table border="2px">
+                        <tr>
+                           <td>2<sup>10</sup></td>
+                           <td>2<sup>9</sup></td>
+                           <td>2<sup>8</sup></td>
+                           <td>2<sup>7</sup></td>
+                           <td>2<sup>6</sup></td>
+                           <td>2<sup>5</sup></td>
+                           <td>2<sup>4</sup></td>
+                           <td>2<sup>3</sup></td>
+                           <td>2<sup>2</sup></td>
+                           <td>2<sup>1</sup></td>
+                           <td>2<sup>0</sup></td>
+                        </tr>
+                        <tr>
+                           <td>1024</td>
+                           <td>512</td>
+                           <td>256</td>
+                           <td>128</td>
+                           <td>64</td>
+                           <td>32</td>
+                           <td>16</td>
+                           <td>8</td>
+                           <td>4</td>
+                           <td>2</td>
+                           <td>1</td>
+                        </tr>
+                           <td><b>1</b></td>
+                           <td><b>1</b></td>
+                           <td><b>1</b></td>
+                           <td><b>1</b></td>
+                           <td><b>1</b></td>
+                           <td><b>0</b></td>
+                           <td><b>1</b></td>
+                           <td><b>0</b></td>
+                           <td><b>0</b></td>
+                           <td><b>1</b></td>
+                           <td><b>1</b></td>
+                </table>
