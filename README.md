@@ -92,3 +92,62 @@
                            <td><b>1</b></td>
                            <td><b>1</b></td>
                 </table>
+<br>
+        <p><b>Assignation 2:</b> MIPS excercise</p>
+                <p>1. Create a program that adds any two given numbers provided by the user</p>
+
+
+
+
+
+    .data
+	Welcome: .asciiz "/nLets sum two numbers buddy/n"
+	result: .asciiz "/nThis is your solve: "
+	number1: .asciiz "/nEnter the first number: "
+	number2: .asciiz "/nEnter the second number: "
+    .text
+	main:
+	li $v0, 4
+	la $a0, Welcome
+	syscall
+	
+	li $v0, 4
+	la $a0, number1
+	syscall 
+	
+	li $v0, 5
+	syscall
+	
+	move $t0, $v0
+	
+	li $v0, 4
+	la $a0, number2
+	syscall
+	
+	li $v0, 5
+	syscall
+	
+	move $t1, $v0
+	
+	add $t2, $t0, $t1
+	
+	li $v0, 4
+	la $a0, result
+	syscall
+	
+	li $v0, 1
+	move $a0, $t2
+	syscall
+
+
+
+<br>
+        <p>2. Create a program that displays your name</p>
+
+    .data
+	name: .asciiz "/nHi, my name is Miguel/n"
+    .text
+	main:
+	li $v0, 4
+	la $a0, name
+	syscall
